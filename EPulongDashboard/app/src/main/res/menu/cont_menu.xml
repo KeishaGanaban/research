@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Missing Person"
+        android:id="@+id/missing"
+        android:icon="@drawable/ic_missing"/>
+
+    <item android:title="Murder"
+        android:id="@+id/murder"
+        android:icon="@drawable/ic_murder"/>
+
+    <item android:title="Robbery"
+        android:id="@+id/robbery"
+        android:icon="@drawable/ic_robbery"/>
+
+    <item android:title="Drugs"
+        android:id="@+id/drugs"
+        android:icon="@drawable/ic_drugs"/>
+</menu>
